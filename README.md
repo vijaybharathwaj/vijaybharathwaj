@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Vijay Bharathwaj G</h1>
+<h3 align="center">Web Developer</h3>
+
+- 🔭 I’m currently working on **React JS Projects**
+
+- 🌱 I’m currently learning **Node.js,Express,MangoDB**
+
+- 💬 Ask me about **React,C,C++,Python**
+
+- 📫 How to reach me **vijaybharathwaj.g@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijay-bharathwaj-g-51167420b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vijay-bharathwaj-g-51167420b" height="30" width="40" /></a>
