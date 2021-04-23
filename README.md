@@ -2,7 +2,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/vijay-bharathwaj-g-51167420b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vijay-bharathwaj-g-51167420b" height="30" width="40" /></a>
 <a href="https://instagram.com/me_gv_3101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="me_gv_3101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vijay-bharathwaj-g-51167420b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vijay-bharathwaj-g-51167420b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
